@@ -14,7 +14,7 @@ mock-api(摸客)是一个线上restful api的模拟平台。前端开发人员�
 # 案例
 ### 模拟微信支付api
 改案例通过模拟模拟微信支付api，可以在开发调试阶段模拟微信支付接口返回支付结果，不用实际支付，这样可以模拟任何金额的交易甚至异常或者交易失败的情况。进入下面的公众号后点击支付可以看到实际例子。
-![二维码](http://cms.agilean.cn/WechatIMG1316.jpeg)
+![二维码](https://github.com/agilean/mock-api/blob/master/WechatIMG.jpeg)
 
 
 
