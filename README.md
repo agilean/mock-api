@@ -25,6 +25,10 @@
 <br/>
 <img src="https://github.com/agilean/mock-api/blob/master/wiki-content/WechatIMG.jpeg" width="200">
 
+# 操作指南
+[快速使用手册](http://mock-api.com/welcome.html)
+
+
 # 联系方式
 * QQ交流群：555715964
 * 邮箱：support@agilean.cn
