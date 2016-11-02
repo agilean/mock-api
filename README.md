@@ -25,8 +25,8 @@
 <br/>
 <img src="https://github.com/agilean/mock-api/blob/master/wiki-content/WechatIMG.jpeg" width="200">
 
-# 操作指南
-[快速使用手册](http://mock-api.com/welcome.html)
+# 教程
+[新手教程](https://github.com/agilean/mock-api/wiki/新手教程)
 
 
 # 联系方式
