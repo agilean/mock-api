@@ -11,6 +11,8 @@
 4. 模拟系统启动之后，系统会给出改系统的一个`url地址前缀`，前端或者真实系统可以通过这个虚拟的url地址加上后续的api地址来访问自定义的虚拟api, (比如:系统给出的模拟url为***http://mock-api.com/wjzpy8gX.mock***, api为***/users***, 则使用***http://mock-api.com/wjzpy8gX.mock/users***就可以访问到虚拟的api了)。如果要切换回真实环境，把api的地址改回原来的真实环境即可。
 5. 模拟系统会记录对虚拟api的访问历史(请求与响应)以及一些简单的统计，后续会逐步开放更详细的统计。
 
+### [新手图文教程](https://github.com/agilean/mock-api/wiki/新手教程)
+
 # 特性
 * 支持text/xml/json/form等多种格式的请求
 * 支持参数化和表达式的响应
@@ -24,10 +26,6 @@
 改案例通过模拟模拟微信支付api，可以在开发调试阶段模拟微信支付接口返回支付结果，不用实际支付，这样可以模拟任何金额的交易甚至异常或者交易失败的情况。进入下面的公众号后点击支付可以看到实际例子。
 <br/>
 <img src="https://github.com/agilean/mock-api/blob/master/wiki-content/WechatIMG.jpeg" width="200">
-
-# 教程
-[新手教程](https://github.com/agilean/mock-api/wiki/新手教程)
-
 
 # 联系方式
 * QQ交流群：555715964
